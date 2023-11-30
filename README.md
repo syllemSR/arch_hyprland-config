@@ -1,14 +1,14 @@
 # Arch Linux Hyprland Configuration
 
 **ALL THE DIFFERENT FILES**
-*  Waybar
-     config
+*  Waybar:
+     config,
      style.css
-*  hypr
+*  hypr:
      hyprland.config
-*  rofi
+*  rofi:
      config.rasi
-*  alacritty
+*  alacritty:
      alacritty.yml
 
 **REQUIREMENTS**
