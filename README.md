@@ -2,8 +2,8 @@
 
 **ALL THE DIFFERENT FILES**
 *  Waybar
-  -  config
-  -  style.css
+  *  config
+  *  style.css
 *  hypr
   -  hyprland.config
 *  rofi
