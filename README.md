@@ -2,14 +2,14 @@
 
 **ALL THE DIFFERENT FILES**
 *  Waybar
-  *  config
-  *  style.css
+     config
+     style.css
 *  hypr
-  -  hyprland.config
+     hyprland.config
 *  rofi
-  -  config.rasi
+     config.rasi
 *  alacritty
-  -  alacritty.yml
+     alacritty.yml
 
 **REQUIREMENTS**
 -  Alacritty (terminal)
