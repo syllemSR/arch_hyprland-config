@@ -1,0 +1,58 @@
+# Configuration for Alacritty, the GPU enhanced terminal emulator.
+
+# Window
+window:
+  padding:
+    x : 10 
+    y : 10 
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+# Scrolling
+scrolling:
+  history: 10000
+  multiplier: 3
+
+# Font configuration
+font:
+  normal:
+    family: BitstromWeraNerdFont
+    style: Regular
+
+      # Colors
+colors:
+  primary:
+    background: "#1E1E1E"
+    foreground: "#ffffff"
+  normal:
+    black: "#32344a"
+    red: "#f7768e"
+    green: "#9ece6a"
+    yellow: "#e0af68"
+    blue: "#7aa2f7"
+    magenta: "#ad8ee6"
+    cyan: "#449dab"
+    white: "#787c99"
+  bright:
+    black: "#444b6a"
+    red: "#ff7a93"
+    green: "#b9f27c"
+    yellow: "#ff9e64"
+    blue: "#7da6ff"
+    magenta: "#bb9af7"
+    cyan: "#0db9d7"
+    white: "#acb0d0"
+
+# Cursor
+cursor:
+  style:
+    shape: Block
+    blinking: Off
+    blink-interval: 750
+
+# Misc
+selection:
+  save_to_clipboard: false
+
+live_config_reload: true
